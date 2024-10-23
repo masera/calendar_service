@@ -74,9 +74,6 @@ src/
     __init__.py
     app.py
     models.py
-tests/
-    __init__.py
-    test_app.py
 ```
 
 - `Dockerfile`: Defines the Docker image for the application.
