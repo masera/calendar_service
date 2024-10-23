@@ -54,10 +54,6 @@ To get an event, send a `GET` request to `/events/{event_id}`. For example:
 curl http://localhost:5000/events/1
 ```
 
-## Running Tests
-
-To run the tests, use the following command:
-
 ```sh
 docker-compose run app python -m unittest discover -s tests
 ```
