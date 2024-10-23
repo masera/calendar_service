@@ -83,6 +83,3 @@ tests/
 - `docker-compose.yml`: Defines the Docker services for the application.
 - `requirements.txt`: Lists the Python dependencies for the application.
 - `src/`: Contains the application source code.
-- `tests/`: Contains the unit tests for the application.
-
-Save this content to your file.
